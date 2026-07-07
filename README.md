@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Vipul 👋</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Full%20Stack%20Web%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+clean%2C+scalable+web+apps;Frontend+%2B+Backend+%2B+Everything+in+between;Always+learning%2C+always+shipping" />
 </p>
@@ -20,19 +22,19 @@
 **Frontend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 **Backend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 **Database & Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,vscode,postman" />
 </p>
 
 ---
