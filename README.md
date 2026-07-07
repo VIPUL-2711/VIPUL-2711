@@ -3,7 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Full%20Stack%20Web%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+clean%2C+scalable+web+apps;Frontend+%2B+Backend+%2B+Everything+in+between;Always+learning%2C+always+shipping" />
+  <b>Building clean, scalable web apps — Frontend + Backend + everything in between</b><br/>
+  <sub>Always learning, always shipping</sub>
 </p>
 
 ---
@@ -40,11 +41,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VIPUL-2711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIPUL-2711&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIPUL-2711&theme=tokyonight&hide_border=true" />
